@@ -3,7 +3,7 @@
 //  TestPipe
 //
 //  Created by shenyuanluo on 2017/12/31.
-//  Copyright © 2017年 shenyuanluo. All rights reserved.
+//  Copyright © 2017年 http://blog.shenyuanluo.com/ All rights reserved.
 //
 
 #include <unistd.h>
